@@ -1,3 +1,3 @@
 function alertButton(){
-    alert("YO MAMA");
+    alert("Hello World!");
 }
